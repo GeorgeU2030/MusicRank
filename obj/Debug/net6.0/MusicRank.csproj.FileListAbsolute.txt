@@ -1,0 +1,15 @@
+C:\Users\georg\Documents\ProjectsC#\MusicRank\bin\Debug\net6.0\MusicRank.exe
+C:\Users\georg\Documents\ProjectsC#\MusicRank\bin\Debug\net6.0\MusicRank.deps.json
+C:\Users\georg\Documents\ProjectsC#\MusicRank\bin\Debug\net6.0\MusicRank.runtimeconfig.json
+C:\Users\georg\Documents\ProjectsC#\MusicRank\bin\Debug\net6.0\MusicRank.dll
+C:\Users\georg\Documents\ProjectsC#\MusicRank\bin\Debug\net6.0\MusicRank.pdb
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.csproj.AssemblyReference.cache
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.AssemblyInfoInputs.cache
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.AssemblyInfo.cs
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.dll
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\refint\MusicRank.dll
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.pdb
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\MusicRank.genruntimeconfig.cache
+C:\Users\georg\Documents\ProjectsC#\MusicRank\obj\Debug\net6.0\ref\MusicRank.dll
