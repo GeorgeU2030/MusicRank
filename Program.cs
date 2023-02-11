@@ -261,7 +261,7 @@ internal class Program
          Console.WriteLine("{0, -20} {1, -40} {2, -10} {3, -30}",s.Name,s.NameSonger,s.Classf,s.DateSong);
         }
         }
-        Console.WriteLine("\n");
+       // Console.WriteLine("\n");
     }
 
     //add awards to a singer
